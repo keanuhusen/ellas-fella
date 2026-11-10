@@ -28,7 +28,6 @@ The database table creates itself on the first submission, so there is no migrat
 
 ```bash
 npm install
-cp .env.example .env.local   # paste DATABASE_URL from Neon, set ADMIN_USER/PASSWORD
 npm run dev
 ```
 
